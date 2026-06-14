@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-## Project Overview
-
 This project analyzes retail sales data using Python, SQL, and Excel. The dataset was cleaned and transformed using Python (Pandas), analyzed using SQL queries, and visualized through an interactive Excel dashboard.
 
 The dashboard helps track key business metrics such as sales, profit, quantity sold, profit margin, regional performance, category performance, customer segments, and top-performing products. The goal of the project is to generate business insights and support data-driven decision-making.
